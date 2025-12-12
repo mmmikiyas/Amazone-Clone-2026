@@ -65,7 +65,7 @@ function Header() {
     <span>& Orders</span>
  </a>
  {/* carts */}
- <a to="/cart">
+ <a to="/cart" className={classes.cart}>
  {/* icons */}
   <CiShoppingCart/>
  <span>0</span>
