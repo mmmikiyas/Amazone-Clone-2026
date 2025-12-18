@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Amazone-Clone-2026/static/css/main.3e496c03.css",
+    "main.js": "/Amazone-Clone-2026/static/js/main.2fb3e00f.js",
+    "static/media/10001.jpg": "/Amazone-Clone-2026/static/media/10001.2f5cc63b7e4512dd2789.jpg",
+    "static/media/10005.jpg": "/Amazone-Clone-2026/static/media/10005.4d36865f92d63b2519a7.jpg",
+    "static/media/10003.jpg": "/Amazone-Clone-2026/static/media/10003.16272162b96e28f935c4.jpg",
+    "static/media/10004.jpg": "/Amazone-Clone-2026/static/media/10004.805821d23a3f63566f17.jpg",
+    "static/media/10002.jpg": "/Amazone-Clone-2026/static/media/10002.225aaef918f59e5de14a.jpg",
+    "static/media/amazonLogo.png": "/Amazone-Clone-2026/static/media/amazonLogo.c258172cbbfae08cdc8d.png",
+    "index.html": "/Amazone-Clone-2026/index.html",
+    "main.3e496c03.css.map": "/Amazone-Clone-2026/static/css/main.3e496c03.css.map",
+    "main.2fb3e00f.js.map": "/Amazone-Clone-2026/static/js/main.2fb3e00f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e496c03.css",
+    "static/js/main.2fb3e00f.js"
+  ]
+}
